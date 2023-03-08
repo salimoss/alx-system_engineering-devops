@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa /boot && ls -lRa .. && ls -lRa .
+ls -lRa /boot && ls -lRa .. && ls -lRa
